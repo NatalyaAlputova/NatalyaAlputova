@@ -10,7 +10,7 @@
 
 [Checklists](https://github.com/NatalyaAlputova/Checklists.git)   
 [Test-Cases](https://github.com/NatalyaAlputova/Test-Suites-and-Test-Cases.git)  
-[Bug-Reports](https://github.com/NatalyaAlputova/Bug-Reports.git)
+[Bug-Reports](https://github.com/NatalyaAlputova/Bug-Reports.git)    
 [Postman Collections](https://github.com/NatalyaAlputova/Postman-Collections.git)
 
 ## Languages and Tools
