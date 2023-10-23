@@ -4,7 +4,7 @@
 
 ## My CV
 
-[link to my CV](https://drive.google.com/file/d/1VHPef5Tq3Yw5Np2jPQMN3JQU8LTcnC3N/view?usp=sharing](https://docs.google.com/document/d/1acys7eymrRPC-SnAGaNxhuiIUjiKV2a2lp9rybVijaE/edit](https://docs.google.com/document/d/1acys7eymrRPC-SnAGaNxhuiIUjiKV2a2lp9rybVijaE/edit?usp=sharing)
+[link to my CV](https://drive.google.com/file/d/1VHPef5Tq3Yw5Np2jPQMN3JQU8LTcnC3N/view?usp=sharing](https://docs.google.com/document/d/1acys7eymrRPC-SnAGaNxhuiIUjiKV2a2lp9rybVijaE/edit](https://docs.google.com/document/d/1acys7eymrRPC-SnAGaNxhuiIUjiKV2a2lp9rybVijaE/edit?usp=sharing))
  
 ## Testing Documentation
 
